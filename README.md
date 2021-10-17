@@ -5,3 +5,4 @@ The assignment consists of two main purpose:
 1. Familiarise myself with the dataset. Here I will perform exploratory analysis skills.
 2. Create a user segmentation that could be utilised by marketing team to reactivate different kinds of users. Provide also recommendations on how to use the segmentation for this purpose. 
 
+NOTE: there are many interactive charts and graphs in the notebook that will require to re-run the code to make them work. If you do not want to re-run the codes, please use the html version.
